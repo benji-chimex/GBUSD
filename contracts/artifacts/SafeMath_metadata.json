@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/GBUSD.sol": "SafeMath"
+			"contracts/FRENNA.sol": "SafeMath"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/GBUSD.sol": {
-			"keccak256": "0xe21c9df2f7213b3a9ee0da54b4f561efb842f215a10c795806a4b2c7dcaf088f",
+		"contracts/FRENNA.sol": {
+			"keccak256": "0x5f642efc7e2fb0655d57949460029fe2a8381355c557edebd65f07d4e399cd02",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e6f5dbe795e78968e4fded12bb20b9110a35e5f0a074ccf4a633ada5318f282a",
-				"dweb:/ipfs/QmSKJFsyjADCU7fcjq8YvUdVhFtZFrLzHufakj3AVMTiYL"
+				"bzz-raw://f9582f54011584ac7de4bb21e4f931541a8b81651779aa21eb540cbac8605413",
+				"dweb:/ipfs/QmagiZy2rBeRULaKacXMagRb878MYbkg7ffRF51ZiBQ8vd"
 			]
 		}
 	},
